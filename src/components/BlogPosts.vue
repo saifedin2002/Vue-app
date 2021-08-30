@@ -23,7 +23,7 @@
 <script>
 export default {
     props : ["views","title","content","auther","date","category"],
-    name : "post",
+    name : "post", 
 };
 </script>
 
